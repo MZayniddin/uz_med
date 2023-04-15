@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 // COMPONENETS
 import HeaderNav from "./header-nav/HeaderNav";
+import SignLink from "./sign-link/SignLink";
 
 // IMAGES
 import EUlogo from "../../assets/logos/EU-logo.svg";
@@ -23,6 +24,7 @@ export default function Header() {
                         </Link>
                     </div>
                     <HeaderNav />
+                    <SignLink />
                 </div>
             </div>
         </header>
