@@ -1,0 +1,13 @@
+.header {
+    // background-color: dodgerblue;
+
+    &-inner {
+        display: flex;
+        align-items: center;
+    }
+
+    &__logos {
+        display: flex;
+        column-gap: 5px;
+    }
+}
