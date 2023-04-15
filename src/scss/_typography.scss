@@ -82,6 +82,7 @@ a:hover,
 a:visited,
 a:active {
     text-decoration: none;
+    transition: all 0.3s ease-in-out;
 }
 
 a:hover {
