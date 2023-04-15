@@ -1,14 +1,21 @@
 .header {
-    // background-color: dodgerblue;
-
     &-inner {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        column-gap: 20px;
     }
 
     &__logos {
         display: flex;
         column-gap: 5px;
+
+        a {
+            display: block;
+        }
+    }
+
+    .down-arrow {
+        transition: 0.3s;
     }
 }
