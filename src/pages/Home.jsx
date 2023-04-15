@@ -1,9 +1,12 @@
-import React from "react";
+// COMPONENTS
+import About from "../components/about/About";
+import News from "../components/news/News";
 
 const Home = () => {
     return (
         <main>
-            <h1>Home</h1>
+            <About />
+            <News />
         </main>
     );
 };
