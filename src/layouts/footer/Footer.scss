@@ -1,0 +1,14 @@
+.footer {
+    background-color: lightblue;
+
+    &-inner {
+        display: grid;
+        grid-template-columns: repeat(5, auto);
+        padding: 20px 0;
+    }
+
+    &__logo img {
+        width: 155px;
+        height: 145px;
+    }
+}

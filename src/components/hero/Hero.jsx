@@ -1,5 +1,6 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, EffectFade } from "swiper";
+import { v4 as uuidv4 } from "uuid";
 
 // SCSS
 import "swiper/css";
@@ -26,7 +27,7 @@ export default function Hero() {
                 className="hero__swiper"
             >
                 {imagesArr.map((img) => (
-                    <SwiperSlide>
+                    <SwiperSlide key={uuidv4()}>
                         <img className="hero__swiper-img" src={img} alt="" />
                     </SwiperSlide>
                 ))}
