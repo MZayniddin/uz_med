@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Resources",
+        "links": ["How it works", "Login", "Task", "Blog", "About"]
+    },
+    {
+        "title": "Product",
+        "links": ["Downlaod apps", "Help center", "Blog", "Caeers", "Partners"]
+    },
+    {
+        "title": "More",
+        "links": ["Demo", "Price", "Business", "Pro", "About"]
+    },
+    {
+        "title": "Contact",
+        "links": [
+            "Email: admin@spaceit.com",
+            "phone: 01234 567890",
+            "Location: Tashkent"
+        ]
+    }
+]
