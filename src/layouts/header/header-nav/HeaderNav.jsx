@@ -43,7 +43,7 @@ function HeaderNav() {
                         <li className="header__nav__sub-list-item">
                             <Link
                                 className="header__nav__sub-link"
-                                to="/management"
+                                to="/meetings"
                             >
                                 Meetings
                             </Link>
