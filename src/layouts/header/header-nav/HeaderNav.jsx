@@ -97,6 +97,9 @@ function HeaderNav() {
                         className={`header__nav__sub-list ${
                             activitiesListState ? "active" : ""
                         }`}
+                        onDoubleClick={() =>
+                            setActivitiesListState((state) => !state)
+                        }
                     >
                         <li className="header__nav__sub-list-item">
                             <Link

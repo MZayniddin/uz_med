@@ -1,0 +1,29 @@
+.desc {
+    padding: 60px 0 40px;
+
+    &__title {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-bottom: 32px;
+        border-bottom: 1px solid $green-c;
+    }
+
+    &__sub-title {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 50px;
+        color: $primary-c;
+        margin-bottom: 20px;
+    }
+
+    &__info {
+        text-align: justify;
+        margin-bottom: 5px;
+    }
+
+    &__text {
+        font-size: 17px;
+        line-height: 28px;
+        color: $primary-c;
+    }
+}
