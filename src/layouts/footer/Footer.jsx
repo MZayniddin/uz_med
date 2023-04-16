@@ -1,4 +1,5 @@
 import { v4 as uuidv4 } from "uuid";
+import { Link } from "react-router-dom";
 
 // DATA
 import footerData from "../../data/footer-data.json";
@@ -18,7 +19,9 @@ export default function Footer() {
             <div className="container">
                 <div className="footer-inner">
                     <div className="footer__logo">
-                        <img src={logo} alt="Uz Med En logo" />
+                        <Link to="/">
+                            <img src={logo} alt="Uz Med En logo" />
+                        </Link>
                     </div>
                     {footerData.map(({ links, title }) => (
                         <LinksBox key={uuidv4()} links={links} title={title} />
