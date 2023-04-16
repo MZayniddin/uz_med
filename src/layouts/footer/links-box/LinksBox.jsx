@@ -5,6 +5,10 @@ import { Link } from "react-router-dom";
 import "./LinksBox.scss";
 
 export default function LinksBox({ links, title }) {
+    const prettyLink = (link) => {
+        return link.toLowerCase().replaceAll(" ", "-");
+    };
+
     return (
         <div className="footer__box">
             <div className="footer__box-title">
@@ -14,7 +18,9 @@ export default function LinksBox({ links, title }) {
             <ul className="footer__links-list">
                 {links.map((link) => (
                     <li key={uuidv4()} className="footer__links-list__item">
-                        <Link className="footer__link">{link}</Link>
+                        <Link to={prettyLink(link)} className="footer__link">
+                            {link}
+                        </Link>
                     </li>
                 ))}
             </ul>

@@ -1,6 +1,4 @@
 .footer {
-    background-color: lightblue;
-
     &-inner {
         display: grid;
         grid-template-columns: repeat(5, auto);
@@ -10,5 +8,14 @@
     &__logo img {
         width: 155px;
         height: 145px;
+    }
+
+    &__copyright {
+        text-align: center;
+        padding: 30px;
+        border-top: 1px solid $primary-c;
+        font-weight: 700;
+        color: $primary-c;
+        opacity: 0.8;
     }
 }

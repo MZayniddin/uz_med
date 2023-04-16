@@ -1,4 +1,4 @@
-import { v4 as uuidv4 } from "uuid"
+import { v4 as uuidv4 } from "uuid";
 
 // DATA
 import footerData from "../../data/footer-data.json";
@@ -25,6 +25,7 @@ export default function Footer() {
                     ))}
                 </div>
             </div>
+            <p className="footer__copyright">© UzMedEn - 2023</p>
         </footer>
     );
 }

@@ -1,0 +1,19 @@
+.footer__box {
+    &-title {
+        font-weight: 600;
+        font-size: $text-xl;
+        line-height: 26px;
+        color: $primary-c;
+        margin-bottom: 20px;
+    }
+
+    .footer__link {
+        line-height: 32px;
+        color: $primary-c;
+        opacity: 0.9;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+}
