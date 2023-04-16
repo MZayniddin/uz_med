@@ -1,0 +1,18 @@
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+.header__logos {
+  display: flex;
+  -moz-column-gap: 5px;
+       column-gap: 5px;
+}
+.header__logos a {
+  display: block;
+}
+.header .down-arrow {
+  transition: 0.3s;
+}/*# sourceMappingURL=Header.css.map */
