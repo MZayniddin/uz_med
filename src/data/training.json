@@ -1,0 +1,40 @@
+[
+    {
+        "data_page": {
+            "title": "WP- 2 TRAINING",
+            "description": "Developing 3 courses for trainers and lecturers for the acquisition of teaching and learning methods. Training courses for Uzbek teachers on EU teaching methodologies and standards in medical engineering at EU HEIs. Developing 4 courses for trainers and lecturers for install manage and maintaining medical devices. Training courses for Uzbek teachers on EU teaching methodologies and standards in medical engineering at EU HEIs",
+            "duration": "M4 - M18",
+            "lead": "RTU, VGTU",
+            "objectives": [
+                "Developing courses for trainers and teachers in order to develop of teaching and learning methods.",
+                "Organizing training courses for trainers and teachers for developing  teaching and learning methods at European partner universities",
+                "Developing courses for Uzbek teachers and technicians in order to develop skills in the medical devices;",
+                "Organizing skills improvement training for Uzbek teachers and technicians in the field of medical engineering at European partners"
+            ]
+        },
+
+        "data_table": [
+            {
+                "task_no": "T2.1",
+                "task_name": "Developing courses for trainers and teachers in order to develop of teaching and learning methods",
+                "description": "Developing 4 courses for trainers and lecturers for the acquisition of teaching and learning methods. Training courses for Uzbek teachers on EU teaching methodologies and standards in medical engineering at EU HEIs",
+                "participant_name": "RTU",
+                "participant_role": "BEN"
+            },
+            {
+                "task_no": "T2.2",
+                "task_name": "Organizing training courses for trainers and teachers in order to develop of teaching and learning methods at European partner universities",
+                "description": "Developing 4 courses for trainers and lecturers for the acquisition of teaching and learning methods. Training courses for Uzbek teachers on EU teaching methodologies and standards in medical engineering at EU HEIs",
+                "participant_name": "RTU, Uzbek partners",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T2.3",
+                "task_name": "Developing courses for Uzbek teachers and technicians in order to develop skills in the medical devices;",
+                "description": "Developing 4 courses for trainers and lecturers for install manage and maintains of medical devices. Training courses for Uzbek teachers on EU teaching methodologies and standards in Medical engineering at EU HEIs",
+                "participant_name": "VGTU",
+                "participant_role": "BEN"
+            }
+        ]
+    }
+]
