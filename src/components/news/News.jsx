@@ -3,7 +3,7 @@ import section from "../../assets/images/section-bg.jpg"
 
 const News = () => {
     return (
-        <section>
+        <section className="news">
             <div className="container">
 
                 <h1 className="about_newsh1">NEWS</h1>

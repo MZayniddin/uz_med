@@ -1,4 +1,4 @@
-.container {
+.news {
     .about_newsh1 {
         margin-top: 9%;
         font-weight: 600;
@@ -15,6 +15,7 @@
     .new_box {
         display: flex;
         margin-top: 5%;
+
         .new_box_img {
             width: 327px;
             height: 258px;
@@ -38,7 +39,4 @@
             }
         }
     }
-
-
-
 }
