@@ -10,6 +10,29 @@
                 "Project reports",
                 "Final report elaboration"
             ]
-        }
+        },
+        "data_table": [
+            {
+                "task_no": "T1.1",
+                "task_name": "Overall co-ordination and direction of the project",
+                "description": "Work package will be concentrated on development of Steering Committee, establishment and development of the project infrastructure and communication channels, controlling the project progress and implementation, monitoring the European Funding/ Continuous financial & administrative management, organizing the project management meetings.",
+                "participant_name": "AndMI, All other EU & UZ Partners",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T1.2",
+                "task_name": "Project reports",
+                "description": "Project Management Guidelines will be developed, describe the project management and organization structure defining roles and assigning responsibilities to the involved partner institutions. It will also describe the mechanism and procedures of project work organization and will provide the necessary documents and templates. Project Periodic Reports according to the reporting guidelines, which will then be submitted to the European Commission by the Coordinator on time. Deliverable reports will be assembled by the WP Leads with the assistance of RTU and the compiled report reviewed by the Project Coordinator. These deliverables will be reported in detail during meetings in UzMedEn.",
+                "participant_name": "AndMI, All other EU & UZ Partners",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T1.3",
+                "task_name": "Final report elaboration",
+                "description": "The final report and financial statements will be structured and delivered according to the EACEA Erasmus+ program reporting rules. Moreover, the outcomes of the project meetings held in the second half of the project will be also reported and accompany the Final Report",
+                "participant_name": "AndMI, All other EU & UZ Partners",
+                "participant_role": "COO, BEN"
+            }
+        ]
     }
 ]
