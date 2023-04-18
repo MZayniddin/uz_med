@@ -1,11 +1,14 @@
 .table__wrapper {
+    margin-bottom: 80px;
+
     table {
         width: 100%;
         border-collapse: collapse;
+        text-align: center;
     }
 
     th {
-        padding: 30px 10px;
+        padding: 10px;
         text-align: center;
         background: #1E417C;
         color: $white-c;
@@ -19,4 +22,29 @@
         border: 1px solid $black-c;
     }
 
+    tr {
+        background-color: #EDF3FF;
+    }
+
+    tr:nth-child(even) {
+        background-color: #F2F2F2;
+    }
+
+    td {
+        padding: 10px;
+        font-weight: 500;
+        font-size: $text-base;
+        line-height: 19px;
+        color: $black-c;
+    }
+
+    .col_desc {
+        width: 45%;
+        text-align: start;
+    }
+
+    .col_participant,
+    .col_task_no {
+        width: 10%;
+    }
 }
