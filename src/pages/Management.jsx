@@ -1,4 +1,3 @@
-import React from "react";
 
 // COMPONENTS
 import Description from "../components/description/Description";

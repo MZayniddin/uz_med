@@ -4,7 +4,6 @@
     table {
         width: 100%;
         border-collapse: collapse;
-        text-align: center;
     }
 
     th {
@@ -40,11 +39,11 @@
 
     .col_desc {
         width: 45%;
-        text-align: start;
     }
 
     .col_participant,
     .col_task_no {
         width: 10%;
+        text-align: center;
     }
 }
