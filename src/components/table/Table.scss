@@ -1,0 +1,22 @@
+.table__wrapper {
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th {
+        padding: 30px 10px;
+        text-align: center;
+        background: #1E417C;
+        color: $white-c;
+        font-weight: 700;
+        font-size: $text-lg;
+    }
+
+    th,
+    td,
+    tr {
+        border: 1px solid $black-c;
+    }
+
+}
