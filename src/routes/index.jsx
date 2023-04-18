@@ -4,6 +4,8 @@ import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
 import Home from "../pages/Home";
 import Management from "../pages/Management";
+import Training from "../pages/Training";
+import React from 'react'
 
 const root = createBrowserRouter([
     {
@@ -17,6 +19,10 @@ const root = createBrowserRouter([
             {
                 path: "management",
                 element: <Management />,
+            },
+            {
+                path: "training",
+                element: <Training />,
             },
         ],
     },

@@ -1,13 +1,9 @@
 import { v4 as uuidv4 } from "uuid";
 
-// DATA
-import data from "../../data/management.json";
-
 // STYLE
 import "./Table.scss";
 
-const Table = () => {
-    console.log();
+const Table = ({ data }) => {
     return (
         <section className="table__wrapper">
             <div className="container">
@@ -25,7 +21,7 @@ const Table = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        {data[0].data_table.map(
+                        {data.map(
                             ({
                                 task_no,
                                 task_name,

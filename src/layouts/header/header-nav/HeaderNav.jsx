@@ -112,6 +112,14 @@ function HeaderNav() {
                         <li className="header__nav__sub-list-item">
                             <Link
                                 className="header__nav__sub-link"
+                                to="/training"
+                            >
+                                Training
+                            </Link>
+                        </li>
+                        <li className="header__nav__sub-list-item">
+                            <Link
+                                className="header__nav__sub-link"
                                 to="/development"
                             >
                                 Development
