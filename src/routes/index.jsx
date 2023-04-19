@@ -9,6 +9,7 @@ import React from "react";
 import Development from "../pages/Development";
 import Establishment from "../pages/Establishment";
 import QualityPlan from "../pages/QualityPlan";
+import Dissemination from "../pages/Dissemination";
 
 const root = createBrowserRouter([
     {
@@ -38,6 +39,10 @@ const root = createBrowserRouter([
             {
                 path: "quality-plan",
                 element: <QualityPlan />,
+            },
+            {
+                path: "dissemination",
+                element: <Dissemination />,
             },
         ],
     },
