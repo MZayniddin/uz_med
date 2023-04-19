@@ -1,0 +1,39 @@
+[
+    {
+        "data_page": {
+            "title": "WP-4 ESTABLISHMENT",
+            "description": "AndMI, TTPU and BETI launched a pilot course in the field of medical engineering Laboratories are equipped with specialized equipment for training students, teachers and specialists at four HEIs in Uzbekistan. The lab equipment will be selected based on the outcomes of conducted need analysis of regional and national hospitals and diagnostic centers and as well as respective HEIs. Therefore, the list of necessary equipment, software and devices will be prepared, reviewed and approved by the beneficiary HEIs. Establishment of training centers at AndMI, TTPU and BETI",
+            "duration": "M12 – M21",
+            "lead": "BETI",
+            "objectives": [
+                "Pilot lunch of Master of science program in the field medical engineering at 3 technical universities in Uzbekistan;",
+                "Establishment of laboratory rooms at 7 partner universities in Uzbekistan;",
+                "Establishment of training centers at 3 partner universities in Uzbekistan;"
+            ]
+        },
+
+        "data_table": [
+            {
+                "task_no": "T4.1",
+                "task_name": "Pilot lunch of Master of science program in the field medical engineering at 3 technical universities in Uzbekistan;",
+                "description": "AndMI, TTPU and BETI launch pilot course in the field of medical engineering",
+                "participant_name": "AndMI, TTPU, BETI",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T4.2",
+                "task_name": "Establishment of laboratory rooms",
+                "description": "Laboratories are equipped with specialized equipment for training students, teachers and specialists at four HEIs in Uzbekistan. The lab equipment will be selected based on the outcomes of conducted need analysis of regional and national hospitals and diagnostic centres and as well as respective HEIs. Therefore, the list of necessary equipment, software and devices will be prepared, reviewed and approved by the beneficiary HEIs.",
+                "participant_name": "AndMI, ASMI, TTPU, KIUT, TUIT, BETI, BSMI, VGTU, RTU",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T4.3",
+                "task_name": "Establishment of training centers at 3 partner universities in Uzbekistan",
+                "description": "Establishment of training centers at AndMI, TTPU and BETI",
+                "participant_name": "AndMI, TTPU, BETI",
+                "participant_role": "COO, BEN"
+            }
+        ]
+    }
+]
