@@ -1,0 +1,26 @@
+[
+    {
+        "data_page": {
+            "title": "WP-5 QUALTY PLAN",
+            "description": "The quality control strategy group of the project is established. European professors lead the package and work closely with teachers and relevant departments from Uzbekistan. Quality Control will be based on feedback from course attendees. Quality reports and feedback from European partner professors are regularly prepared. Moreover, students will be involved in quality control and monitoring. Issues of monitoring will be addressed during the visits and in the interim and annual reports on the implementation of the project team. If the results of monitoring will point to the impossibility of timely achievement of the targets, it is necessary to identify the reasons for this and implement corrective measures.",
+            "duration": "M1 – M36",
+            "lead": "TUIT",
+            "objectives": [
+                "Quality Control and Monitoring by coordinator and QT",
+                "Performing internal evaluation of the developed project materials and organized meetings.",
+                "Performing independent external evaluation of the project results.",
+                "Performing an independent external audit"
+            ]
+        },
+
+        "data_table": [
+            {
+                "task_no": "T5.1",
+                "task_name": "Quality Control and Monitoring by coordinator and QT",
+                "description": "Quality control strategy group of the project is established. European professors lead the package and work closely with teachers and relevant departments from Uzbekistan. Quality Control will be based on feedback from course attendees.",
+                "participant_name": "TUIT, all partners",
+                "participant_role": "COO, BEN"
+            }
+        ]
+    }
+]
