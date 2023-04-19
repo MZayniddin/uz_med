@@ -1,0 +1,40 @@
+[
+    {
+        "data_page": {
+            "title": "WP-6 DISSEMINATION.",
+            "description": "Creating a project website at the start of the project in order to support communication and collaboration between all partners involved in maintaining the project website throughout the project's lifetime.  Academic staff of the Uzbek higher education institutions will conduct regular workshops for professors and invited lecturers for the acquisition of technological knowledge, innovative teaching and learning methods to share experience and train professors and invited lecturers from other universities of the PCs. Workshops will be shorter in duration. Periodically publishing the achieved results in the project website, newspapers, magazines, brochures, and scientific conferences and journals. Reporting the project results at regional, national and international forums. Developing and printing appropriate publicity materials. Printing the project results as a book for dissemination.",
+            "duration": "M1 – M36",
+            "lead": "BETI",
+            "objectives": [
+                "Creation of project web-site and communication platform;",
+                "Workshops, Seminars and Meetings;",
+                "Publishing the results;",
+                "Performing an independent external audit"
+            ]
+        },
+
+        "data_table": [
+            {
+                "task_no": "T6.1",
+                "task_name": "Creation of project web-site and communication platform",
+                "description": "Creating a project website at the start of the project in order to support communication and collaboration between all partners involved maintaining the project website throughout the project lifetime.",
+                "participant_name": "KIUT",
+                "participant_role": "BEN"
+            },
+            {
+                "task_no": "T6.2",
+                "task_name": "Workshops, Seminars and Meetings",
+                "description": "Official opening of the laboratories in Uzbekistan is organized with guests from ministries and respective agencies. The final conference on “Development of Continuous Education Program in Medical Engineering” in 2025 will be held by inviting guests from ministries, agencies, respective hospitals and diagnostic centers, public and government entities, EU Embassy representatives and local mass media during the final project meeting. The purpose of the Final Dissemination Conference will be to present the project, its activities and products and to summarize the project achievements.",
+                "participant_name": "KIUT, All other EU & UZ Partners",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T6.3",
+                "task_name": "Publishing the results",
+                "description": "Periodically publishing the achieved results in the project website, newspapers, magazines, brochures, and scientific conferences and journals. Reporting the project results at regional, national and international forums. Developing and printing appropriate publicity materials. Printing the project results as a book for dissemination. Appropriate and effective use of Social Media systems.",
+                "participant_name": "KIUT, All other EU & UZ Partners",
+                "participant_role": "COO, BEN"
+            }
+        ]
+    }
+]
