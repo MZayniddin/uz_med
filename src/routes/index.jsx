@@ -8,6 +8,7 @@ import Training from "../pages/Training";
 import React from "react";
 import Development from "../pages/Development";
 import Establishment from "../pages/Establishment";
+import QualityPlan from "../pages/QualityPlan";
 
 const root = createBrowserRouter([
     {
@@ -33,6 +34,10 @@ const root = createBrowserRouter([
             {
                 path: "establishment",
                 element: <Establishment />,
+            },
+            {
+                path: "quality-plan",
+                element: <QualityPlan />,
             },
         ],
     },
