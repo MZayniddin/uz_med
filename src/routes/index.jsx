@@ -7,6 +7,7 @@ import Management from "../pages/Management";
 import Training from "../pages/Training";
 import React from "react";
 import Development from "../pages/Development";
+import Establishment from "../pages/Establishment";
 
 const root = createBrowserRouter([
     {
@@ -28,6 +29,10 @@ const root = createBrowserRouter([
             {
                 path: "development",
                 element: <Development />,
+            },
+            {
+                path: "establishment",
+                element: <Establishment />,
             },
         ],
     },
