@@ -8,10 +8,7 @@ export default defineConfig({
         postcss: null,
         preprocessorOptions: {
             scss: {
-                additionalData: `
-            @import './src/scss/_variables.scss';
-            // @import './src/index.scss';
-          `,
+                additionalData: `@import './src/scss/_variables.scss';`,
             },
         },
     },
