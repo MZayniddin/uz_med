@@ -5,7 +5,8 @@ import App from "../App";
 import Home from "../pages/Home";
 import Management from "../pages/Management";
 import Training from "../pages/Training";
-import React from 'react'
+import React from "react";
+import Development from "../pages/Development";
 
 const root = createBrowserRouter([
     {
@@ -23,6 +24,10 @@ const root = createBrowserRouter([
             {
                 path: "training",
                 element: <Training />,
+            },
+            {
+                path: "development",
+                element: <Development />,
             },
         ],
     },
