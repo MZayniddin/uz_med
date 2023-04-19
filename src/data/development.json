@@ -1,0 +1,47 @@
+[
+    {
+        "data_page": {
+            "title": "WP-3 DEVELOPMENT",
+            "description": "Testing and adapting of curriculum, materials, and methods after developing the program, starting selected courses in HEIs in Uzbekistan.Testing will be carried out by participants from all partners and realized in two phases. First, courses will be tested by teachers, experts and public authorities. Second, courses will be tested by students in the frame of the regular teaching process. Feedback will be gained through evaluation questionnaires on results of which modifications within training curricula and courses will be done. All developed training course materials (manuals, presentations and video lectures) published on the project web side. The new master of science program approved and accredited by the Ministry of Higher and secondary specialized education in Uzbekistan",
+            "duration": "M10 - M24",
+            "lead": "TTPU",
+            "objectives": [
+                "Development of full MSc curriculum with 12 courses in the field of medical engineering compatible with European standards;",
+                "Development of full 4 training program in the field of medical engineering;",
+                "Testing and adapting curricula, materials and methods;",
+                "Printing and publishing all material on web side of project;",
+                "Approve and accreditation of new Master of Science program;"
+            ]
+        },
+        "data_table": [
+            {
+                "task_no": "T3.1",
+                "task_name": "Development of full Master of Science curriculum with 12 courses in the field of medical engineering compatible with European standards",
+                "description": "Development of Master's program (new standards, regulations, curriculum, textbooks, manuals, soft skills and new teaching methodology) in Medical Engineering.",
+                "participant_name": "TTPU, BETI, AndMI, ASMI, BSMI, TUIT, KIUT",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T3.2",
+                "task_name": "Development of full 4 training program in the field of medical engineering",
+                "description": "Development of 4 training program (manuals. presentations and video lectures) in Medical Engineering. In this activity, following 4 courses will be develop: 1. Maintaining of Diagnostic devices; 2. Maintaining of Treatment and laboratory analysis devices; 3. Medical Devices Testing and Calibration; 4. Management of advanced medical devices;.",
+                "participant_name": "TTPU, BETI, AndMI, ASMI, BSMI, TUIT, KIUT",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T3.3",
+                "task_name": "Testing and adapting curricula, materials and methods",
+                "description": "Testing and adapting of curriculum, materials and methods after developed the program, starting selected courses in HEIs in Uzbekistan. Testing will be carried out by participants from all partners and realized two phases. First, courses will be tested by teachers, experts and public authorities. Second, courses will be tested by students in frame of regular teaching process. ",
+                "participant_name": "TTPU, BETI, AndMI, ASMI, BSMI, TUIT, KIUT",
+                "participant_role": "COO, BEN"
+            },
+            {
+                "task_no": "T3.4",
+                "task_name": "Printing and publishing all material on web side of project",
+                "description": "All developed training course materials (manuals, presentations and video lectures) published on the project web side",
+                "participant_name": "TTPU, BETI, AndMI, ASMI, BSMI, TUIT, KIUT",
+                "participant_role": "COO, BEN"
+            }
+        ]
+    }
+]
