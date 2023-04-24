@@ -9,8 +9,7 @@ const About = () => {
                 <div className="about_title">
                     <h1 className="about_title_h1">Title of the project:</h1>
                     <div className="line_title"></div>
-                    <p className="about_title_text">Modernization of Mechatronics and Robotics for Bachelor's degree in Uzbekistan through Innovative Ideas and Digital Technology</p>
-
+                    <p className="about_title_text">New master’s degree and training course programs in the field of medical engineering in Uzbekistan</p>
                 </div>
                 <div className="about_main">
                     <h2 className="about_main_h1">Main project outcomes:</h2>
@@ -41,7 +40,7 @@ const About = () => {
 
                 <div className="about_duration">
                     <h2 className="about_duration_h1">Duration of the project:</h2>  
-                    <p className="about_duration_text"> 01/02/2023 – 01/12/2026 36 Months</p>
+                    <p className="about_duration_text"> 01/01/2023 (00:00) – 31/12/2025 (23:59) 36 Months</p>
                 </div>
                 <div className="line_duration"></div>
                
@@ -65,7 +64,7 @@ const About = () => {
 
                 <div className="about_duration">
                     <h2 className="about_duration_h1">Budget:</h2>  
-                    <p className="about_duration_text"> 798 695 euros</p>
+                    <p className="about_duration_text">471 588,00 €</p>
                 </div>
                 <div className="line_duration_5"></div>
             </div>
