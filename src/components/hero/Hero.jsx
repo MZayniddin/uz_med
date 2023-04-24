@@ -9,9 +9,10 @@ import "./Hero.scss";
 
 // IMAGES
 import image1 from "../../assets/hero-img/hero1.jpg";
+import image2 from "../../assets/hero-img/hero2.png";
 
 export default function Hero() {
-    const imagesArr = [image1, "https://robohash.org/test?set=set3"];
+    const imagesArr = [image1, image2];
     return (
         <section className="hero">
             <Swiper
