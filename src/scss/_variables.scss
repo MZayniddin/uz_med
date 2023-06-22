@@ -9,12 +9,13 @@ $green-c: #008000;
 $light-blue-c: #1E417C; // For table top
 
 // FONT SIZE
-$text-xs: 12px;
 $text-sm: 14px;
 $text-base: 16px;
-$text-lg: 18px;
-$text-xl: 22px;
-$text-2xl: 24px;
-$text-3xl: 28px;
-$text-4xl: 36px;
-$text-5xl: 48px;
+$text-lg: 20px;
+$text-xl: 25px;
+$text-2xl: 30px;
+$text-3xl: 42px;
+
+// FONT-FAMILY
+$primary-ff: "Motserrat", sans-serif;
+$secondary-ff: "Lato", sans-serif;

@@ -1,11 +1,10 @@
 .header__sign-link {
     display: inline-block;
-    padding: 16px 40px;
+    font-family: $secondary-ff;
+    font-size: $text-2xl;
+    font-weight: 500;
+    padding: 12px 30px;
     background-color: $primary-c;
     border-radius: 6px;
     color: $white-c;
-
-    &:hover {
-        color: $white-c;
-    }
 }

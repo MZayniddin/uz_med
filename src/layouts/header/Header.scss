@@ -1,21 +1,14 @@
 .header {
-    &-inner {
+    padding: 12px 10px;
+
+    &-container {
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-around;
         column-gap: 20px;
     }
 
-    &__logos {
-        display: flex;
-        column-gap: 5px;
-
-        a {
-            display: block;
-        }
-    }
-
-    .down-arrow {
-        transition: 0.3s;
+    &__logo a {
+        display: block;
     }
 }
