@@ -1,16 +1,16 @@
 // COMPONENTS
-import About from "../components/about/About";
+import AboutProject from "../components/about-project/AboutProject";
 import News from "../components/news/News";
 import Partners from "../components/partners/Partners";
 
 const Home = () => {
-    return (
-        <main>
-            <About />
-            <News />
-            <Partners />
-        </main>
-    );
+  return (
+    <main>
+      <AboutProject />
+      <News />
+      <Partners />
+    </main>
+  );
 };
 
 export default Home;

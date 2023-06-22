@@ -3,8 +3,9 @@
     font-family: $secondary-ff;
     font-size: $text-2xl;
     font-weight: 500;
-    padding: 12px 30px;
+    padding: 12px 24px;
     background-color: $primary-c;
-    border-radius: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 4px 0px rgba(30, 58, 138, 0.15);
     color: $white-c;
 }

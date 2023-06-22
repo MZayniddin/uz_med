@@ -1,0 +1,16 @@
+.about .partners-list {
+    margin-bottom: 60px;
+
+    li {
+        padding: 10px;
+
+        &:nth-child(even) {
+            background: rgba(186, 186, 186, 0.15);
+        }
+
+        span {
+            margin-left: 5px;
+        }
+    }
+
+}

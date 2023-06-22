@@ -1,0 +1,26 @@
+.about .statistics-box {
+    min-height: 265px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+
+    border-radius: 12px;
+    background: $white-c;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+    p,
+    span {
+        color: $primary-c;
+    }
+
+    p {
+        font-size: $text-3xl;
+        font-weight: 700;
+    }
+
+    span {
+        font-size: $text-lg;
+    }
+}
