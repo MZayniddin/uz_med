@@ -1,4 +1,4 @@
-import "./StatisticsBox.scss"
+import "./StatisticsBox.scss";
 
 const StatisticsBox = ({ label, content }) => {
   return (

@@ -1,0 +1,76 @@
+.news-card {
+    max-width: 360px;
+    border-radius: 12px;
+    background: $white-c;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+
+    &__image {
+        height: 360px;
+        border-radius: 12px;
+        object-fit: cover;
+    }
+
+    &__content {
+        padding: 20px;
+    }
+
+    &__date {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        margin-bottom: 20px;
+
+        svg {
+            color: $primary-c;
+            font-size: $text-2xl;
+        }
+
+        span {
+            color: $grey-c;
+            font-size: $text-lg;
+            font-weight: 500;
+        }
+    }
+
+    &__title {
+        color: $primary-c;
+        font-size: $text-2xl;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+
+    &__text {
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-bottom: 20px;
+    }
+
+    &__view-count {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        column-gap: 10px;
+        font-size: $text-lg;
+        font-weight: 500;
+
+        svg {
+            font-size: 24px;
+            color: $primary-c;
+        }
+    }
+
+    &__link {
+        display: flex;
+        justify-content: center;
+        background-color: $primary-c;
+        color: $white-c;
+        font-size: $text-lg;
+        font-weight: 500;
+        font-family: $secondary-ff;
+        padding: 12px;
+    }
+}
