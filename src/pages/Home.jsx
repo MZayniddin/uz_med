@@ -1,14 +1,14 @@
 // COMPONENTS
 import AboutProject from "../components/about-project/AboutProject";
 import News from "../components/news/News";
-import Partners from "../components/partners/Partners";
+import PartnersSlider from "../components/partners-slider/PartnersSlider";
 
 const Home = () => {
   return (
     <main>
       <AboutProject />
       <News />
-      <Partners />
+      <PartnersSlider />
     </main>
   );
 };
