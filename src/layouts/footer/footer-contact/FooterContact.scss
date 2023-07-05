@@ -1,0 +1,27 @@
+.footer {
+    .contact-tel {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .contact-address {
+        display: block;
+        margin-bottom: 60px;
+        font-style: normal;
+    }
+
+    .socials {
+        display: flex;
+        justify-content: space-evenly;
+
+        a {
+            display: block;
+        }
+
+        img {
+            width: 45px;
+            height: 45px;
+        }
+    }
+
+}

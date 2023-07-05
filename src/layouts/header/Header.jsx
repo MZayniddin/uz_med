@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 
 // COMPONENETS
 import HeaderNav from "./header-nav/HeaderNav";
-import SignLink from "./sign-link/SignLink";
 
 // IMAGES
 import logo from "../../assets/logos/logo.svg";
