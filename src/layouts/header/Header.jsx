@@ -21,7 +21,6 @@ export default function Header() {
           </Link>
         </div>
         <HeaderNav />
-        <SignLink />
       </div>
     </header>
   );
