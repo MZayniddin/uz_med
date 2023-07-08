@@ -1,28 +1,29 @@
 .desc {
-    padding: 60px 0 40px;
+    padding: 60px 0 80px;
 
     &__title {
-        display: inline-block;
-        text-transform: uppercase;
-        margin-bottom: 32px;
+        color: $primary-c;
+        font-size: $text-3xl;
+        font-weight: bold;
+        line-height: normal;
+        margin-bottom: 60px;
     }
 
     &__sub-title {
-        font-weight: 600;
-        font-size: 30px;
-        line-height: 50px;
         color: $primary-c;
-        margin-bottom: 20px;
-    }
-
-    &__info {
-        text-align: justify;
-        margin-bottom: 5px;
+        font-size: $text-2xl;
+        font-weight: 600;
+        line-height: normal;
+        margin-bottom: 30px;
     }
 
     &__text {
-        font-size: 17px;
-        line-height: 28px;
-        color: $primary-c;
+        text-align: justify;
+        margin-bottom: 30px;
     }
+
+    &__info {
+        margin-bottom: 60px;
+    }
+
 }
