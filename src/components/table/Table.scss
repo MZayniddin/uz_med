@@ -1,40 +1,31 @@
 .table__wrapper {
-    padding-bottom: 80px;
+    margin-bottom: 140px;
 
     table {
         width: 100%;
         border-collapse: collapse;
+        border-radius: 12px;
+        overflow: hidden;
     }
 
     th {
         padding: 10px;
         text-align: center;
-        background: #1E417C;
+        background: $primary-c;
         color: $white-c;
-        font-weight: 700;
         font-size: $text-lg;
+        font-weight: 600;
     }
 
     th,
     td,
     tr {
-        border: 1px solid $black-c;
-    }
-
-    tr {
-        background-color: #EDF3FF;
-    }
-
-    tr:nth-child(even) {
-        background-color: #F2F2F2;
+        border: 2px solid $grey-c;
     }
 
     td {
         padding: 10px;
-        font-weight: 500;
-        font-size: $text-base;
-        line-height: 19px;
-        color: $black-c;
+        font-size: 18px
     }
 
     .col_desc {
